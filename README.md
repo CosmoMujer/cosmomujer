@@ -14,7 +14,7 @@
 <h3 align=🔹 Modelagem e gerenciamento de banco de dados (MySQL, SQL Server).</h3><br> 
 <h3 align=🔹 Desenvolvimento web (HTML, CSS, JavaScript).</h3><br> 
 <h3 align=🔹 Ferramentas para criação de sites e aplicações.</h3><br> 
-<h3 align=🚀 Em busca de desafios! Estou sempre à procura de novas oportunidades para aprender, crescer e contribuir para projetos inovadores que desafiem os limites da tecnologia.</h3><br>
+<h3 align=🚀 Em busca de desafios! Estou sempre à procura de novas oportunidades para aprender, crescer e contribuir para projetos inovadores que desafiem os limites da tecnologia.</h3><br>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
