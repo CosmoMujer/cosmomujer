@@ -1,5 +1,20 @@
-<h1 align="center">✨ Olá, mundo! 🚀 Me Chamo GeovannaMujer</h1>
-<h3 align="center">👩‍💻 Quem sou eu? Discente de T.I 💻 Fundamentos da Computação 🔹 Arquitetura e funcionamento dos computadores 🔹 Sistemas operacionais (Windows e Linux) 🔹 Redes de computadores e internet 🛠️ Manutenção e Suporte Técnico 🔹 Montagem e configuração de computadores 🔹 Diagnóstico e solução de problemas em hardware e software 🔹 Segurança da informação e boas práticas 📌 Programação e Desenvolvimento 🔹 Lógica de programação e algoritmos 🔹 Linguagens de programação como Python, Java ou C 🔹 Desenvolvimento de aplicações e sistemas 🌐 Banco de Dados e Web 🔹 Modelagem e gerenciamento de banco de dados (MySQL, SQL Server) 🔹 Desenvolvimento web (HTML, CSS, JavaScript) 🔹 Ferramentas para criação de sites e aplicações 🚀 Em busca de desafios! Estou sempre à procura de novas oportunidades para aprender, crescer e contribuir para projetos inovadores que desafiem os limites da tecnologia.</h3>
+ <h1 align="center">✨ Olá, mundo! 🚀 Me Chamo GeovannaMujer</h1>
+<h3 align="center">👩‍💻 Quem sou eu? Discente de T.I 💻 Fundamentos da Computação 
+🔹 Arquitetura e funcionamento dos computadores 
+🔹 Sistemas operacionais (Windows e Linux) 
+🔹 Redes de computadores e internet 🛠️ Manutenção e Suporte Técnico 
+🔹 Montagem e configuração de computadores 
+🔹 Diagnóstico e solução de problemas em hardware e software 
+🔹 Segurança da informação e boas práticas
+📌 Programação e Desenvolvimento 
+🔹 Lógica de programação e algoritmos 
+🔹 Linguagens de programação como Python, Java ou C 
+🔹 Desenvolvimento de aplicações e sistemas 
+🌐 Banco de Dados e Web 
+🔹 Modelagem e gerenciamento de banco de dados (MySQL, SQL Server) 
+🔹 Desenvolvimento web (HTML, CSS, JavaScript) 
+🔹 Ferramentas para criação de sites e aplicações 
+🚀 Em busca de desafios! Estou sempre à procura de novas oportunidades para aprender, crescer e contribuir para projetos inovadores que desafiem os limites da tecnologia.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
