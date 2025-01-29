@@ -1,20 +1,5 @@
-<h1 align="center">✨ Olá, mundo! 🚀 Me Chamo GeovannaMujer</h1><br>
-<h3 align="center">👩‍💻 Quem sou eu? Discente de T.I 💻 Fundamentos da Computação</h3><br>
-<h3 align=🔹 Arquitetura e funcionamento dos computadores.</h3><br>
-<h3 align=🔹 Sistemas operacionais (Windows e Linux).</h3><br>
-<h3 align=🔹 Redes de computadores e internet 🛠️ Manutenção e Suporte Técnico.</h3><br> 
-<h3 align=🔹 Montagem e configuração de computadores.</h3><br>
-<h3 align=🔹 Diagnóstico e solução de problemas em hardware e software.</h3><br> 
-<h3 align=🔹 Segurança da informação e boas práticas.</h3><br>
-<h3 align=📌 Programação e Desenvolvimento.</h3><br> 
-<h3 align=🔹 Lógica de programação e algoritmos.</h3><br> 
-<h3 align=🔹 Linguagens de programação como Python, Java ou C.</h3><br> 
-<h3 align=🔹 Desenvolvimento de aplicações e sistemas.</h3><br> 
-<h3 align=🌐 Banco de Dados e Web.</h3><br> 
-<h3 align=🔹 Modelagem e gerenciamento de banco de dados (MySQL, SQL Server).</h3><br> 
-<h3 align=🔹 Desenvolvimento web (HTML, CSS, JavaScript).</h3><br> 
-<h3 align=🔹 Ferramentas para criação de sites e aplicações.</h3><br> 
-<h3 align=🚀 Em busca de desafios! Estou sempre à procura de novas oportunidades para aprender, crescer e contribuir para projetos inovadores que desafiem os limites da tecnologia.</h3><br>.
+<h1 align="center">✨ Olá, mundo! 🚀 Me Chamo GeovannaMujer</h1>
+<h3 align="center">👩‍💻 Quem sou eu? Discente de T.I<br> 💻 Fundamentos da Computação<br> 🔹 Arquitetura e funcionamento dos computadores 🔹 Sistemas operacionais (Windows e Linux)<br> 🔹 Redes de computadores e internet 🛠️ Manutenção e Suporte Técnico 🔹 Montagem e configuração de computadores 🔹 Diagnóstico e solução de problemas em hardware e software 🔹 Segurança da informação e boas práticas 📌 Programação e Desenvolvimento 🔹 Lógica de programação e algoritmos 🔹 Linguagens de programação como Python, Java ou C 🔹 Desenvolvimento de aplicações e sistemas 🌐 Banco de Dados e Web 🔹 Modelagem e gerenciamento de banco de dados (MySQL, SQL Server) 🔹 Desenvolvimento web (HTML, CSS, JavaScript) 🔹 Ferramentas para criação de sites e aplicações 🚀 Em busca de desafios! Estou sempre à procura de novas oportunidades para aprender, crescer e contribuir para projetos inovadores que desafiem os limites da tecnologia.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
